@@ -68,4 +68,11 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </p>
   <p align='center'>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=akash-1318&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"></p>
+  
+  ---
+  
+  ### :writing_hand: Blog Posts :
+  <!-- BLOG-POST-LIST:START -->
+- ["Synchronous and Asynchronous programming"](https://knightdev.hashnode.dev/synchronous-and-asynchronous-programming-in-javascript)
+- ["This keyword in Javascript"](https://knightdev.hashnode.dev/this-keyword-in-javascript)
 
