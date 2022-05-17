@@ -78,6 +78,8 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ➡️ [more blog posts...](https://hashnode.com/@akash1307)
 
+<div align="center">
+  
 [![](http://spotify.aio-api.ml/spotify?id=qy9jhr85so9g8pr6zz7aizc6x&theme=wavy&image=true&bars_when_not_listening=true&bg_color=black&title_color=cyan&text_color=cyan)](https://open.spotify.com/user/qy9jhr85so9g8pr6zz7aizc6x)
   
  
@@ -85,4 +87,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
  Watch my contribution graph being eaten by a Snake! 🐍
  ![snake gif](https://github.com/akash-1318/akash-1318/blob/output/github-contribution-grid-snake.gif)
+  
+  </div>
 
