@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/hashnode-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/hashnode-rgb(32 92 255)?style=for-the-badge&logo=hashnode&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 </div>
