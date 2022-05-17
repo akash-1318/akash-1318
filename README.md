@@ -76,3 +76,5 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - ["Synchronous and Asynchronous programming"](https://knightdev.hashnode.dev/synchronous-and-asynchronous-programming-in-javascript)
 - ["This keyword in Javascript"](https://knightdev.hashnode.dev/this-keyword-in-javascript)
 
+➡️ [more blog posts...](https://hashnode.com/@akash1307)
+
