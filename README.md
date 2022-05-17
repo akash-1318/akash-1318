@@ -40,3 +40,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I love to watch anime.
 - ⚡ Fun fact: I started coding to be a Hacker but ended up being a developer.
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
