@@ -1,9 +1,5 @@
 <div id="header" align="center">
   <h1 align="center">
-    <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;Akash+here...;nice+to+see+you!&center=true&size=30">
   </a>
