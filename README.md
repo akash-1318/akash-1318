@@ -22,6 +22,6 @@
     <img src="https://img.shields.io/badge/hashnode-rgb(32 92 255)?style=for-the-badge&logo=hashnode&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/among-us-dance.gif?1593555389" width="30"/>
+  <img src="https://slackmojis.com/emojis/11401-among-us-dance/download" width="30"/>
   <img src="https://activity-graph.herokuapp.com/graph?username=akash-1318&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
 </div>
