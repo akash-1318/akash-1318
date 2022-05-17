@@ -33,5 +33,5 @@
 ---
 
 ### :man_technologist: About Me :
-<br>
-I am a Full Stack Developer from India. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+I am a Frontend Developer from India. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
