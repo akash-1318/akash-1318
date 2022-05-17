@@ -34,4 +34,4 @@
 
 ### :man_technologist: About Me :
 <br>
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Frontend Developer <img src="https://slackmojis.com/emojis/11401-among-us-dance/download" width="30"/> from India.
