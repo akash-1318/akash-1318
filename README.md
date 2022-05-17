@@ -22,5 +22,4 @@
     <img src="https://img.shields.io/badge/hashnode-rgb(32 92 255)?style=for-the-badge&logo=hashnode&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=akash-1318&style=flat-square&color=blue" alt=""/>
 </div>
