@@ -35,3 +35,8 @@
 ### :man_technologist: About Me :
 
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- 🔭A passionate and aspiring Frontend developer from India
+- 🌱 Currently learning React and Backend
+- 🤝 2022 Goals: Contribute more to Open Source projects
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I come here for the green squares
