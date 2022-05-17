@@ -12,13 +12,13 @@
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/discord-%237289DA?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://www.linkedin.com/in/akash-sharma-0251051a1">
     <img src="https://img.shields.io/badge/instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/Akasharma18">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://hashnode.com/@akash1307">
     <img src="https://img.shields.io/badge/hashnode-rgb(32 92 255)?style=for-the-badge&logo=hashnode&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
