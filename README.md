@@ -6,17 +6,17 @@
 </h1>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
   <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/linkedin-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/discord-%237289DA?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="https://www.linkedin.com/in/akash-sharma-0251051a1">
-    <img src="https://img.shields.io/badge/instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/Akasharma18">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>  
+  <a href="https://www.instagram.com/im_perfect13o7/?hl=en">
+    <img src="https://img.shields.io/badge/instagram-%23E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/discord-%237289DA?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://hashnode.com/@akash1307">
     <img src="https://img.shields.io/badge/hashnode-rgb(32 92 255)?style=for-the-badge&logo=hashnode&logoColor=white" alt="Twitter Badge"/>
