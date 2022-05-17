@@ -86,7 +86,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
  ![dino](https://user-images.githubusercontent.com/72180173/147874434-07a7880a-c659-47ab-bbbc-d564bb10bb3f.gif)
 
  Watch my contribution graph being eaten by a Snake! 🐍
- ![snake gif](https://github.com/akash-1318/akash-1318/blob/output/github-contribution-grid-snake.gif)
+ ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/Mohasin-Haque/Mohasin-Haque/master/snake.svg)
   
   </div>
 
