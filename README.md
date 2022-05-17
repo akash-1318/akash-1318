@@ -38,5 +38,5 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - :telescope: I’m working as a frontend developer and contributing to frontend for building web applications.
 - 🧑🏻‍💻 Currently learning React and Backend.
 - :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I love tpo watch anime.
+- :zap: In my free time, I love to watch anime.
 - ⚡ Fun fact: I started coding to be a Hacker but ended up being a developer.
