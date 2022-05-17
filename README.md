@@ -61,4 +61,15 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-akash-1318&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohasin-Haque&theme=radical" alt="Mohasin-Haque Github Stats" />
+  </p> 
+   <p align='center'>
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=Mohasin-Haque&count_private=true&theme=radical"/>
+</p>
+  <p align='center'>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Mohasin-Haque&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"></p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Mohasin-Haque/count.svg" />
+</p>
