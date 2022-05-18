@@ -4,10 +4,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;Akash+here...;nice+to+see+you!&center=true&size=30">
   </a>
 </h1>
-  <a href="https://akash-sharma18.netlify.app/#" alt="Portfolio">
-  <img src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com"/></a>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
   <div id="badges">
+    <a href="https://akash-sharma18.netlify.app/#" alt="Portfolio">
+  <img src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com"/></a>
   <a href="https://www.linkedin.com/in/akash-sharma-0251051a1">
     <img src="https://img.shields.io/badge/linkedin-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
