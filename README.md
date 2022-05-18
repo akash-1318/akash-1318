@@ -6,8 +6,6 @@
 </h1>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
   <div id="badges">
-    <a href="https://akash-sharma18.netlify.app/#" alt="Portfolio">
-  <img src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com"/></a>
   <a href="https://www.linkedin.com/in/akash-sharma-0251051a1">
     <img src="https://img.shields.io/badge/linkedin-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -26,6 +24,8 @@
 </div>
   <br>
   <img src="https://slackmojis.com/emojis/11401-among-us-dance/download" width="30"/>
+  <a href="https://akash-sharma18.netlify.app/#" alt="Portfolio">
+  <img src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com"/></a>
   <img src="https://activity-graph.herokuapp.com/graph?username=akash-1318&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
