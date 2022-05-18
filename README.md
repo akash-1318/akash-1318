@@ -63,7 +63,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :fire: My Stats :
-<p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-1318&theme=radical" alt="Mohasin-Haque Github Stats" />
+<p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-1318&theme=radical" alt="Akash Sharma Github Stats" />
   </p> 
    <p align='center'>
   <img width="450px" src="https://github-readme-stats.vercel.app/api?username=akash-1318&count_private=true&theme=radical"/>
