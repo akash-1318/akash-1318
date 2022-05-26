@@ -41,7 +41,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 🧑🏻‍💻 Currently learning React and Backend.
 - :seedling: Exploring Technical Content Writing.
 - 🤩 : In my free time, I love to watch anime.
-- ⚡️ : Fun fact: I started coding to be a Hacker but ended up being a developer.
+- ⚡️ Fun fact: I started coding to be a Hacker but ended up being a developer.
 
 ---
 
