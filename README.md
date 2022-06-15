@@ -30,6 +30,9 @@
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=akash-1318&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
 <div align="center"> -->
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 </div>
 
 ---
