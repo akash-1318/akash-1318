@@ -24,7 +24,7 @@
 </div>
   <br>
   <img src="https://slackmojis.com/emojis/11401-among-us-dance/download" width="30"/>
-  <a href="https://akash-sharma18.netlify.app/#" alt="Portfolio">
+  <a href="https://akashhh-sharma.netlify.app/" alt="Portfolio">
   <img src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com"/>
   </a>
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=akash-1318&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
