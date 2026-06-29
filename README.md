@@ -39,9 +39,8 @@
 
 ### :man_technologist: About Me :
 
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a frontend developer and contributing to frontend for building web applications.
-- 🧑🏻‍💻 Currently learning React and Backend.
+I am a Full Stack engineer (Frontend focused) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- 🧑🏻‍💻 Currently learning RAG systems.
 - :seedling: Exploring Technical Content Writing.
 - 🤩 : In my free time, I love to watch anime.
 - ⚡️ Fun fact: I started coding to be a Hacker but ended up being a developer.
